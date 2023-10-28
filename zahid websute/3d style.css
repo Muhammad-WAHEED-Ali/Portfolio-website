@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.warpper {
+    height: 400px;
+    width: 320px;
+    position: relative;
+}
